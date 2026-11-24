@@ -1,0 +1,26 @@
+Buildfile: /mnt/data/mvbuild/Etapa4/MVDelivery/build.xml
+
+clean:
+   [delete] Deleting directory /mnt/data/mvbuild/Etapa4/MVDelivery/build
+   [delete] Deleting directory /mnt/data/mvbuild/Etapa4/MVDelivery/dist
+
+compile:
+    [mkdir] Created dir: /mnt/data/mvbuild/Etapa4/MVDelivery/build/classes
+    [javac] Compiling 13 source files to /mnt/data/mvbuild/Etapa4/MVDelivery/build/classes
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] warning: [options] source value 8 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 8 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] 4 warnings
+
+jar:
+    [mkdir] Created dir: /mnt/data/mvbuild/Etapa4/MVDelivery/dist
+      [jar] Building jar: /mnt/data/mvbuild/Etapa4/MVDelivery/dist/MVDelivery.jar
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
+OK: cadastro, atribuição, status, histórico, feedback único, vínculo e exclusão dependente.
+
+Teste JDBC real: não executado
